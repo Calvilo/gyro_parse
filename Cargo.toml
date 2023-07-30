@@ -1,0 +1,12 @@
+[package]
+name = "gyro_parse"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+serial2='0.2.1'
+crc_all='0.2.2'
+num_enum = "0.6.1"
